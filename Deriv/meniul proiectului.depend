@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1703132663 source:c:\users\utilizator\desktop\cod\meniul proiectului\main.cpp
+	<fstream>
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<mmsystem.h>
+

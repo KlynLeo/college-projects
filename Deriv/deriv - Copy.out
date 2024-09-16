@@ -1,0 +1,2 @@
+Derivata expresiei sin(x)+x^3 este: cos(x)+3*x^2
+Derivata expresiei sin(x*2)+ln(x^3) este: cos(x*2)*2+1/(x^3)*3*x^2

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1705563823 source:c:\deriv\main.cpp
+	<fstream>
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<stdlib.h>
+	<string>
+
+1704956553 source:c:\deriv\deriv.in.c
+
